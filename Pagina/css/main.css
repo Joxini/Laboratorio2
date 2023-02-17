@@ -2,9 +2,12 @@
     background-color: green;
 }
 #Suspendidos{
-    background-color: red;
+    background-color: rgba(236, 3, 3, 0.884);
 }
 
 #tabla1{
     margin-bottom: 100px;
+}
+td{
+    font-weight: 600;
 }
